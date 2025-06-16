@@ -1,0 +1,41 @@
+================================================================================
+📊 ANÁLISE DE PRESTADORAS DE BACKHAUL - SÃO JOSÉ DOS CAMPOS
+================================================================================
+
+📈 ESTATÍSTICAS GERAIS:
+   • Total de registros analisados: 39
+   • Total de prestadoras únicas: 20
+   • Período analisado: 2023 - 2024
+
+🔵 PRESTADORAS QUE UTILIZAM APENAS FIBRA (14):
+   • ABCREDE PROVEDOR DE INTERNET EIRELI
+   • ABCREDE TELECOM INFORMATICA LTDA-ME.
+   • AMERICAN TOWER DO BRASIL - COMUNICACAO MULTIMIDIA LTDA
+   • America Net S.a.
+   • CENTURY TELECOM LTDA
+   • Cabonnet Internet Ltda
+   • Desktop - Sigmanet
+   • INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A.
+   • Niptelecom Telecomunicacoes Ltda
+   • SAMM - SOCIEDADE DE ATIVIDADES EM MULTIMÍDIA LTDA.
+   • SETE MEIA TELECOMUNICACOES LTDA
+   • SUMICITY TELECOMUNICACOES S.A.
+   • V.TAL - REDE NEUTRA DE TELECOMUNICACOES S.A.
+   • Vip Br Telecom S.a.
+
+📡 PRESTADORAS QUE UTILIZAM APENAS RÁDIO (3):
+   • DIRECTNET PRESTACAO DE SERVICOS LTDA
+   • VOGEL SOLUCOES EM TELECOMUNICACOES E INFORMATICA S.A.
+   • WIRELESS COMM SERVICES LTDA
+
+🔄 PRESTADORAS QUE UTILIZAM AMBOS OS MEIOS (3):
+   • CLARO S.A.
+   • TELEFONICA BRASIL S.A.
+   • TIM S A
+
+📊 RESUMO ESTATÍSTICO:
+   • Apenas Fibra: 14 (70.0%)
+   • Apenas Rádio: 3 (15.0%)
+   • Ambos os meios: 3 (15.0%)
+
+================================================================================
